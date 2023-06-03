@@ -1,0 +1,151 @@
+
+From: <clwang@cs.hku.hk>
+Subject: HPCA4-Update
+Date: 20 Dec 1997 08:28:57
+Message:
+
+     
+-------------------------------------------------------
+   Fourth International Symposium On High-Performance 
+            Computer Architecture (HPCA-4)
+             January 31 - February 4, 1998
+             Orlean's Hotel, Las Vegas, USA
+-------------------------------------------------------
+
+
+Hi 
+
+The Orlean's Hotel has dicided to offer
+HPCA-4 attendants special group rate at $39/day for Sun, 
+Mon, and Tue. (Feb 1-3).  For details, please visit our web 
+page at:
+
+          http://www.cs.hku.hk/~hpca4/
+
+
+Cho-Li Wang
+HPCA-4 Publicity Chair
+The Department of Computer Science
+The University of Hong Kong
+     
+
+
+From: Jim Bondi <bondi@daldd.sc.ti.com>
+Subject: "Micro-31" -- Call for Participation
+Date: 18 Sep 1998 20:05:30
+Message:
+
+Colleagues, students, friends,
+
+  Micro-31, the 31st International Symposium on Microarchitecture, will
+be held in Dallas, Texas on 30 NOV - 02 DEC 1998.  In the 1990's, MICRO
+has become the premier forum for discussing advancements in
+microarchitecture and in compiler techniques that together enable higher
+computing performance, especially through increased exploitation of
+instruction-level parallelism (ILP).  Micro-31 aims to continue and even
+strengthen this tradition when we reconvene in Dallas later this year.
+
+  We invite you to join us at Micro-31.  As you plan your participation,
+visit our web site at http://www.acm.org/sigmicro/micro31/ for full
+information on the overall conference schedule, the detailed program,
+and registration.  Discounted "early" registration is available through
+Friday 06 NOV.
+
+  Micro-31's main program thread, from Monday morning 30 NOV through
+Wednesday noon 02 DEC, contains our keynote address, an excellent slate
+of papers, and 1 special lecture.  Surrounding this technical centerpiece
+are an optional workshop and tutorial on the preceding Sunday 29 NOV and
+a bonus tutorial following on Wednesday afternoon.  Taken together, these
+events offer attendees a truly excellent, value-packed program.
+
+  See you later this year at Micro-31 in Dallas, Texas!
+
+Regards,
+Jim Bondi, Jim Smith, & Micro-31 Organizers
+
+
+From: fmuelle@moss.csc.ncsu.edu
+Subject: CASES 2002: Tutorials and Participation
+Date: 25 Sep 2002 14:52:31
+Message:
+
+
+We apologize if you receive multiple copies of this announcement.
+
+=============================================================================
+
+                       CALL FOR PARTICIPATION
+
+                              CASES 2002
+                     International Conference on
+     Compilers, Architectures and Synthesis for Embedded Systems
+
+          http://www.crest.gatech.edu/conferences/cases2002
+
+                          October 8-11, 2002
+                           Grenoble, France
+
+                co-located with EMSOFT 2002 (Oct 7-9)
+                     http://www-emsoft02.imag.fr/
+
+=============================================================================
+
+REGISTRATION DATES
+
+    Registration:  $450
+    Student:       $275
+    If already registered for EMSOFT: $200
+    Tutorial:      $150 (1 Tutorial) / $200 (2 Tutorials)
+
+    Please register through the web site.
+
+CONFERENCE PROGRAM and more...
+
+    ... see web site.
+
+TUTORIAL ABSTRACTS
+
+Tutorial 1: Compilers for Embedded Processors: Technology and New Challenges
+
+Tuesday, 8:30AM - 12Noon
+
+Presenter: Rainer Leupers, Aachen University of Technology
+
+Abstract: Programmable processors are among the major building blocks
+in today's embedded SoC designs. In contrast to desktop systems, there
+is a huge variety of domain specific and even application specific
+architectures, including microcontrollers, DSPs, NPUs, and ASIPs.  The
+irregular architectures and very high code quality demands of embedded
+processors create a need for new compiler techniques beyond classical
+Dragon Book compilation. This tutorial gives an overview of today's
+retargetable compiler and code optimization technology for embedded
+processors, while also touching further important software development
+tools.  Additionally, new research challenges in the areas of
+architecture exploration and compilation for recent architecture
+families like VLIWs and NPUs will be covered.
+
+Tutorial 2: Software Performance Analysis for Real-Time Embedded Systems
+
+Tuesday, 1:30PM - 5PM
+
+Presenters: Rolf Ernst, Technical University of Braunschweig
+            Reinhard Wilhelm, University of SaarbrÂcken        
+
+Abstract: Run-time guarantees play an important role in the area of
+embedded systems and especially hard real-time systems. These systems
+are typically subject to stringent timing constraints which often
+result from the interaction with the surrounding physical
+environment. It is essential that the computations are completed
+within their associated time bounds; otherwise severe damages may
+result. Therefore, a schedulability analysis has to be performed which
+guarantees that all timing constraints will be met (also called timing
+validation).  The complex processor architectural features, such as
+caches and pipelines make the analysis of the software execution
+behavior very difficult.  In this tutorial, the approaches for
+computing reliable worst-case execution times for real-time software
+will be presented. Techniques for analyzing the overall system-level
+time behavior will also be discussed.
+
+
+
+
